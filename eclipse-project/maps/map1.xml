@@ -1,0 +1,2145 @@
+<?xml version = "1.0" ?>
+<rows>
+	<row>
+		<column type="scatterCoordinate" ghost="pinky" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="scatterCoordinate" ghost="blinky" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="powerPellet" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="powerPellet" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="gate">
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="gate">
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="ghostHouse">
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="ghostHouse">
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="ghostHouse">
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+		<column type="empty" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="powerPellet" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="pacmanSpawn">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+			<neighbor direction="left" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="powerPellet" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="right" />
+			<neighbor direction="down" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="down" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="up" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="down" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="wall" />
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+			<neighbor direction="up" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="left" />
+			<neighbor direction="right" />
+		</column>
+		<column type="field">
+			<pellet type="normal" />
+			<neighbor direction="up" />
+			<neighbor direction="left" />
+		</column>
+		<column type="wall" />
+	</row>
+	<row>
+		<column type="scatterCoordinate" ghost="clyde" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="wall" />
+		<column type="scatterCoordinate" ghost="inky" />
+	</row>
+</rows>
